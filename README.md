@@ -1,2 +1,2 @@
 # RollTheDiceGame
-Roll The Dice
+Roll The Dice Until You Reach 150 Points and Win !!!
